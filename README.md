@@ -25,4 +25,4 @@ This project is a simple web application that allows users to fetch and display 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/flipkart-reviews-scraper.git
+   git clone https://github.com/Abhimanyukumar08/Flipkart_WebCrawler.git
